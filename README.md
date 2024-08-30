@@ -1,5 +1,5 @@
 # node-todo-cicd
-Mbogi ni kenje
+
 Run these commands:
 
 
